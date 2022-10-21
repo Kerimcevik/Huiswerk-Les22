@@ -1,0 +1,15 @@
+footer {
+  min-height: 200px;
+  background-color: rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.btn {
+  color: white;
+  background-color: black;
+}
+
+.btn:hover{
+  color: black;
+  background-color: white;
+}
